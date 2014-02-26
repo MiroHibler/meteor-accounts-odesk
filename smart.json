@@ -1,0 +1,11 @@
+{
+	"name"			: "accounts-odesk",
+	"description"	: "Login service for oDesk accounts",
+	"homepage"		: "https://github.com/MiroHibler/meteor-accounts-odesk",
+	"author"		: "Miroslav Hibler (http://miro.hibler.me)",
+	"version"		: "0.1.0",
+	"git"			: "https://github.com/MiroHibler/meteor-accounts-odesk.git",
+	"packages"		: {
+		"odesk": "0.1.0"
+	}
+}
