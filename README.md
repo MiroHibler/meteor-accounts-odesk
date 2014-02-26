@@ -18,7 +18,7 @@ _meteor-accounts-odesk_ enables login with [oDesk](http://odesk.com) account.
 Install using [Meteorite](https://github.com/oortcloud/meteorite) - Installer & smart package manager for Meteor:
 
 ```sh
-$ mrt add accounts-odesk			// it will add `odesk` package automatically if not alrady installed
+$ mrt add accounts-odesk			// it will add `odesk` package automatically
 ```
 
 ## Changelog
